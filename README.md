@@ -1,6 +1,4 @@
 # Maze-solver
-Here's the `README.md` file ready for you to copy and paste into your GitHub repository:
-
 ---
 
 # Robot Pathfinding in a 2D Grid
